@@ -1,3 +1,5 @@
+## View This Resume at: http://pizzapanther.github.io/resume/
+
 This my resume in markdown format which lets me version, style and generate html and pdf formats using https://github.com/c0bra/markdown-resume-js. The current style supports printing and mobile devices.
 
 ##setup
