@@ -23,7 +23,11 @@
 
 ### Experience
 
-**MobileWorks** *Senior Software Engineer* __2013 to present__
+**DramaFever** *Senior Software Engineer* __2013 to present__
+	Senior developer responsible for Chrome Apps written primarily with AngularJS.  Also responsible for Python server side development.
+	**Technical Environment:** AngularJS, Javascript, Chrome Apps, Python, Django, HTML/CSS.
+	
+**MobileWorks** *Senior Software Engineer* __2013__
 	Senior developer for crowdsourcing platform with full stack development responsibilities.
 	**Technical Environment:** Python, Django, Angular, HTML/CSS, Postgres.
 
