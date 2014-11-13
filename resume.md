@@ -65,7 +65,7 @@
 
 * **PyTexas**
 	<a href=http://pytexas.org/ class=not-printed>PyTexas</a>
-	Web chair for the Texas Python conference, responsible for developing the conference website.
+	Web chair for PyTexas conference, and Python Web Development Houston Orangizer.
 
 ------
 
