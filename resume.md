@@ -23,7 +23,7 @@
 
 ### Experience
 
-**DramaFever** *Senior Software Engineer* __2014 to present__
+**DramaFever** *Senior Front-End Engineer* __2014 to present__
 	Senior developer responsible for Chrome Apps written primarily with AngularJS.  Also responsible for Python server side development.
 	**Technical Environment:** AngularJS, Javascript, Chrome Apps, Python, Django, HTML/CSS.
 	
